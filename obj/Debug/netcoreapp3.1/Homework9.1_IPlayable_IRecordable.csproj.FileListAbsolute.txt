@@ -1,0 +1,13 @@
+C:\AlifAcademy\Homework9.1_IPlayable_IRecordable\bin\Debug\netcoreapp3.1\Homework9.1_IPlayable_IRecordable.exe
+C:\AlifAcademy\Homework9.1_IPlayable_IRecordable\bin\Debug\netcoreapp3.1\Homework9.1_IPlayable_IRecordable.deps.json
+C:\AlifAcademy\Homework9.1_IPlayable_IRecordable\bin\Debug\netcoreapp3.1\Homework9.1_IPlayable_IRecordable.runtimeconfig.json
+C:\AlifAcademy\Homework9.1_IPlayable_IRecordable\bin\Debug\netcoreapp3.1\Homework9.1_IPlayable_IRecordable.runtimeconfig.dev.json
+C:\AlifAcademy\Homework9.1_IPlayable_IRecordable\bin\Debug\netcoreapp3.1\Homework9.1_IPlayable_IRecordable.dll
+C:\AlifAcademy\Homework9.1_IPlayable_IRecordable\bin\Debug\netcoreapp3.1\Homework9.1_IPlayable_IRecordable.pdb
+C:\AlifAcademy\Homework9.1_IPlayable_IRecordable\obj\Debug\netcoreapp3.1\Homework9.1_IPlayable_IRecordable.csprojAssemblyReference.cache
+C:\AlifAcademy\Homework9.1_IPlayable_IRecordable\obj\Debug\netcoreapp3.1\Homework9.1_IPlayable_IRecordable.csproj.CoreCompileInputs.cache
+C:\AlifAcademy\Homework9.1_IPlayable_IRecordable\obj\Debug\netcoreapp3.1\Homework9.1_IPlayable_IRecordable.AssemblyInfoInputs.cache
+C:\AlifAcademy\Homework9.1_IPlayable_IRecordable\obj\Debug\netcoreapp3.1\Homework9.1_IPlayable_IRecordable.AssemblyInfo.cs
+C:\AlifAcademy\Homework9.1_IPlayable_IRecordable\obj\Debug\netcoreapp3.1\Homework9.1_IPlayable_IRecordable.dll
+C:\AlifAcademy\Homework9.1_IPlayable_IRecordable\obj\Debug\netcoreapp3.1\Homework9.1_IPlayable_IRecordable.pdb
+C:\AlifAcademy\Homework9.1_IPlayable_IRecordable\obj\Debug\netcoreapp3.1\Homework9.1_IPlayable_IRecordable.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Homework9.1_IPlayable_IRecordable/1.0.0": {
+        "runtime": {
+          "Homework9.1_IPlayable_IRecordable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework9.1_IPlayable_IRecordable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
