@@ -41,7 +41,12 @@ namespace Homework9_1_IPlayable_IRecordable
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Player cust = new Player();
+            System.Console.WriteLine("Action of program");
+            cust.Play();
+            cust.Record();
+            cust.Pause();
+            cust.Stop();
         }
     }
 }
